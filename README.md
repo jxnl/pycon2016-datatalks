@@ -19,13 +19,5 @@ PyCon recently uploaded their talks to [youtube](https://www.youtube.com/channel
 
 ## Download Videos for Offline
 
-1. Install [`youtube-dl`](https://github.com/rg3/youtube-dl)
-```
-brew install youtube-dl
-
-OR
-
-pip install youtube-dl
-```
-
+1. Install [`youtube-dl`](https://github.com/rg3/youtube-dl). `brew install youtube-dl` or  `pip install youtube-dl`
 2. `./download.sh`
